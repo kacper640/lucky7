@@ -21,3 +21,14 @@ public class App {
  System.out.println(numero2);
 
  System.out.println(numero3);
+
+
+    if (numero1 == 7) {
+
+ System.out.println("Voitit!");
+
+ } else {
+
+ System.out.println("Hävisit!");
+
+ }
