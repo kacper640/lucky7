@@ -14,3 +14,10 @@ public class App {
 
  int numero3 = arpoja.nextInt(10) + 1;
       
+ System.out.println("Arvotut numerot:");
+
+ System.out.println(numero1);
+
+ System.out.println(numero2);
+
+ System.out.println(numero3);
